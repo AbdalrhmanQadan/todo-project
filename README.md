@@ -14,8 +14,8 @@
 
 ## Todo page
 
-![image](/Index/assets/task3Todo.PNG)
+![image](/Index/assets/taskhome.PNG)
 
 ## About page
 
-![image](/About/assets/task3Aboutpage.PNG)
+![image](/About/assets/task4about.PNG)
