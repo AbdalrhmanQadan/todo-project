@@ -6,40 +6,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/Style/style.css">
+    <link rel="stylesheet" href="/Style/nav.css">
+    <link rel="stylesheet" href="/Style/index.css">
 </head>
 
 <body>
     <header>
         <ul class="ul">
-            <li class="li">ToDo List Logo</li>
-            <li class="li"><a href="http://127.0.0.1:5500/About/about.html">About Page</a></li>
+            <li class="li"><img style="max-width : 25% ;" src="/Index/assets/images.png" alt="list"></li>
+            <li class="li"><a href="http://127.0.0.1:5500/About/about.html">About </a></li>
+            <li><a href="http://127.0.0.1:5500/Index/index.html">Home </a></li>
         </ul>
     </header>
     <div class="cont0">
         <h1>TODO LIST</h1>
         <div class="cont">
             <input id="inputToDo" type="text" /><button id="buttonToDo">+</button>
+            <br><br>
             <table>
                 <tr>
                     <th>tasks </th>
                     <th>status</th>
                 </tr>
                 <tr>
-                    <td>reading</td>
+                    <td>reading <input type="checkbox" /></td>
                     <td>done</td>
                 </tr>
                 <tr>
-                    <td>Playing sports</td>
+                    <td>Playing sports <input type="checkbox" /></td>
                     <td>not done</td>
                 </tr>
                 <tr>
 
-                    <td>Writing code</td>
+                    <td>Writing code <input type="checkbox" /></td>
                     <td>done</td>
                 </tr>
                 <tr>
-                    <td>Shopping</td>
+                    <td>Shopping <input type="checkbox" /></td>
                     <td>done</td>
                 </tr>
             </table>
