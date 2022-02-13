@@ -1,12 +1,8 @@
 # todo-project
 
-### wireframe  ToDo page
+![image](/assets/task6.PNG)
 
-![image](/assets/task3.PNG)
-
-### wireframe About page
-
-![image](/assets/task3B.PNG)
+![image](/assets/task6run.PNG)
 
 ## the tree
 
